@@ -32,7 +32,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roadtrippers falla en diseño para móvil e idioma, TripAdvisor ha cumplido con todas nuestras expectativas y por último Way Away y Google Trip que cumplen menos en la facilidad de uso en el caso de esta última. Hemos elegido Roadtrippers por ser una opción equilibrada en pros y contras.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
