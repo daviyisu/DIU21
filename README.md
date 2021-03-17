@@ -33,6 +33,13 @@ Miembros
 -----
 
 A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roadtrippers falla en diseño para móvil e idioma, TripAdvisor ha cumplido con todas nuestras expectativas y por último Way Away y Google Trip que cumplen menos en la facilidad de uso en el caso de esta última. Hemos elegido Roadtrippers por ser una opción equilibrada en pros y contras.
+| Características/Empresas |Inspirock| Roadtrippers   |  TripAdvisor    | Google Trip | Way away
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- |
+| Multilenguaje  | Inglés, Holandés, Árabe   | Solo inglés  | Sí, tiene una enorme cantidad de lenguajes disponibles       | Sí, tiene una enorme cantidad de lenguajes disponibles | Sólo inglés y español.       |  
+| Diseño adaptativo | Sí   | No tiene página web para móvil, debes descargarte la aplicación  | Sí, se ve bien tanto en móvil como ordenador sin necesidad de aplicaciones       | Sí, se ve bien tanto en móvil como ordenador sin necesidad de aplicaciones       | Se ve bien en móvil y en ordenador        |  
+| Accesibilidad | Bastante accesible   |Bastante accesible     | Sí, no tienes que hacer ningún proceso previo para poder usarla        | Moderada    | Bastante accesible      |  
+| Es intuitiva  | Sí   | Sí  | Mucho, en unos pocos pasos sencillos puedes hacer reservas       | Media     | Fácil de usar        | 
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
