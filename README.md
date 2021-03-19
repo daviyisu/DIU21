@@ -45,6 +45,7 @@ A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roa
 -----
 
 He elegido a Lucas porque me ha parecido interesante el ejemplo de alguien que tradicionalmente no ha tenido muchos amigos ni trato social pero qué tampoco tiene tiempo para arreglar esto debido a su trabajo.
+![Ficha Lucas](P1/lucas_ficha.png?raw=true "Ficha de Lucas")
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
