@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   David Jesús Ruiz de Valdivia Torres     :octocat:     https://github.com/daviyisu
+ * :bust_in_silhouette:  Sergio Espínola Pérez     :octocat:  https://github.com/Sergismundo
 
 ----- 
 
