@@ -46,7 +46,6 @@ A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roa
 
 He elegido a Lucas porque me ha parecido interesante el ejemplo de alguien que tradicionalmente no ha tenido muchos amigos ni trato social pero qué tampoco tiene tiempo para arreglar esto debido a su trabajo.
 
-(P1/lucas_ficha.PNG)
 
 He elegido Andrea porque es una persona con un carácter, metas, y contexto muy diferente al mío, y he pensado que sus diferencias podrían aportar riqueza y diversidad a nuestras perspectivas.
 
@@ -58,12 +57,10 @@ Hemos elegido estas dos experiencias de usuario porque creemos que se adaptan bi
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+Enlace a la revisión de usabilidad:
+https://github.com/daviyisu/DIU21/blob/master/P1/Revisión%20de%20usabilidad.pdf
+La valoración dada por la plantilla es de 80.
+Nuestra valoración dada en el análisis competitivo y esta son tan distintas porque nosotros hemos juzgado aspectos más amplios de la página como que sea multiplataforma, el lenguaje... etc. Pero en el análisis de usabilidad se preguntan cosas más concretas que la página cumple.
 
 ## Paso 2. UX Design  
 
