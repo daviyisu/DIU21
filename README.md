@@ -46,16 +46,15 @@ A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roa
 
 He elegido a Lucas porque me ha parecido interesante el ejemplo de alguien que tradicionalmente no ha tenido muchos amigos ni trato social pero qué tampoco tiene tiempo para arreglar esto debido a su trabajo.
 
-(P1/lucas_ficha.png)
+(P1/lucas_ficha.PNG)
 
 He elegido Andrea porque es una persona con un carácter, metas, y contexto muy diferente al mío, y he pensado que sus diferencias podrían aportar riqueza y diversidad a nuestras perspectivas.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Hemos elegido estas dos experiencias de usuario porque creemos que se adaptan bien al perfil de nuestras personas. En ambos casos creemos que las dos experiencias son habituales en personas parecidas a las creadas.
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
