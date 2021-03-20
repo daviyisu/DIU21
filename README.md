@@ -60,7 +60,7 @@ Hemos elegido estas dos experiencias de usuario porque creemos que se adaptan bi
 Enlace a la revisión de usabilidad:
 https://github.com/daviyisu/DIU21/blob/master/P1/Revisión%20de%20usabilidad.pdf
 La valoración dada por la plantilla es de 80.
-Nuestra valoración dada en el análisis competitivo y esta son tan distintas porque nosotros hemos juzgado aspectos más amplios de la página como que sea multiplataforma, el lenguaje... etc. Pero en el análisis de usabilidad se preguntan cosas más concretas que la página cumple.
+Nuestra valoración dada en el análisis competitivo y esta son tan distintas porque nosotros hemos juzgado aspectos más amplios de la página como que sea multiplataforma, el lenguaje... etc. Pero en el análisis de usabilidad se preguntan cosas más concretas que la página sí cumple.
 
 ## Paso 2. UX Design  
 
