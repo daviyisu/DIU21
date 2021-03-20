@@ -45,7 +45,11 @@ A destacar negativamente de Inspirock es su falta de idiomas, que son pocos. Roa
 -----
 
 He elegido a Lucas porque me ha parecido interesante el ejemplo de alguien que tradicionalmente no ha tenido muchos amigos ni trato social pero qué tampoco tiene tiempo para arreglar esto debido a su trabajo.
+
 (P1/lucas_ficha.png)
+
+He elegido Andrea porque es una persona con un carácter, metas, y contexto muy diferente al mío, y he pensado que sus diferencias podrían aportar riqueza y diversidad a nuestras perspectivas.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
