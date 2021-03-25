@@ -112,7 +112,7 @@ angular.module("angular", [])
                 /*** PASO #3: ACTUA ***/
 
                 goal3: "Decide utilizar esta web para realizar el itinerario.",
-                touch3: "Móvil (llamada)",
+                touch3: "Móvil (webapp)",
                 feel3: "2",
                 con3: "Su interfaz desordenada y barroca le molesta además de que está en inglés y ella no sabe casi nada de inglés.",
                 ima3: "cartoon-phoningangry.png",
