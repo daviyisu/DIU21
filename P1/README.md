@@ -3,7 +3,7 @@
 
 
 
-- Desk research: Análisis Competencia 
+
 | Características/Empresas |Inspirock| Roadtrippers   |  TripAdvisor    | Google Trip | Way away
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
