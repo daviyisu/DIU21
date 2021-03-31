@@ -8,6 +8,8 @@
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- |
 | Multilenguaje  | Inglés, Holandés, Árabe   | Solo inglés  | Sí, tiene una enorme cantidad de lenguajes disponibles | Sí, tiene una enorme cantidad de lenguajes disponibles | Sólo inglés y español.       | 
 | Diseño adaptativo | Sí   | No tiene página web para móvil, debes descargarte la aplicación  | Sí, se ve bien tanto en móvil como ordenador sin necesidad de aplicaciones       | Sí, se ve bien tanto en móvil como ordenador sin necesidad de aplicaciones       | Se ve bien en móvil y en ordenador        |  
+| Accesibilidad | Bastante accesible   |Bastante accesible     | Sí, no tienes que hacer ningún proceso previo para poder usarla        | Moderada    | Bastante accesible      |  
+
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
