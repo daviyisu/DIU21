@@ -25,7 +25,9 @@ Sitemap de la aplicación
 
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/sitemap.png)
 
-* Labelling 
+El labelling puede ser encontrado aquí:
+
+https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
 
 
 ### Prototipo Lo-FI Wireframe 
