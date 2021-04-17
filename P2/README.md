@@ -7,6 +7,9 @@
 ### PROPUESTA DE VALOR
 Nuestra propuesta es la de una aplicación para organizar viajes llamada Acogavi, explicada aquí:
 https://github.com/daviyisu/DIU21/blob/master/P2/Descripción%20propuesta.pdf
+
+LeanUX Canvas:
+
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/canvas.png)
 
 
