@@ -2,6 +2,7 @@
 
 ### Ideación 
 
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/canvas.png)
 
 
 ### PROPUESTA DE VALOR
