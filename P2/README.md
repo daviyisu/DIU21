@@ -34,4 +34,4 @@ https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Esta etapa nos ha parecido más interesante que la anterior ya que la hemos visto más enfocada a nuestro ámbito y se notaba que todos los pasos eran para formar algo más grande que es esta primera idea de la aplicación.
