@@ -2,7 +2,7 @@
 
 ### Ideación 
 
-![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/canvas.png)
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/malla_receptora_info.png)
 
 
 ### PROPUESTA DE VALOR
