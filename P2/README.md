@@ -21,7 +21,10 @@ Aquí la matriz usuario/tareas
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+Sitemap de la aplicación
+
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/sitemap.png)
+
 * Labelling 
 
 
