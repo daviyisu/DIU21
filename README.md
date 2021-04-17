@@ -5,11 +5,11 @@ Grupo: DIU1_01tive2.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Acogavi
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
