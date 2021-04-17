@@ -2,7 +2,7 @@
 
 ### Ideación 
 
-
+![alt text](https://github.com/[daviyisu]/[DIU21]/blob/[branch]/image.jpg?raw=true)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
