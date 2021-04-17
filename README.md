@@ -105,9 +105,6 @@ https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
-
->>>Bocetos:
-
 https://github.com/daviyisu/DIU21/blob/master/P2/bocetos.pdf
 
 
