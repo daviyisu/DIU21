@@ -15,10 +15,9 @@ LeanUX Canvas:
 
 
 ### TASK ANALYSIS
+Aquí la matriz usuario/tareas
 
-* User Task Matrix 
-* User/Task flow
-
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/matriz_tareas_usuario.PNG)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
