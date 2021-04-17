@@ -96,21 +96,19 @@ Nuestra valoración dada en el análisis competitivo y esta son tan distintas po
 
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/sitemap.png)
 
->>>Labelling
-
-https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
-
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+
+>>>Bocetos:
+
+https://github.com/daviyisu/DIU21/blob/master/P2/bocetos.pdf
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
