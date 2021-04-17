@@ -72,6 +72,7 @@ Nuestra valoración dada en el análisis competitivo y esta son tan distintas po
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>> (150-200 caracteres)
+
 Los gastos de los viajes pueden ser muy caros. Nuestra propuesta de app permite abaratar gastos con un sistema de puntos, hospedarte en casas de usuarios y ofrecer la tuya propia.
 
 Descripción de la propuesta aquí:
