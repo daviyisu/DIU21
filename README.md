@@ -80,15 +80,25 @@ Nuestra valoración dada en el análisis competitivo y esta son tan distintas po
 ----
 >>> Propuesta de valor 
 
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/canvas.png)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/matriz_tareas_usuario.PNG)
+
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+>>>Sitemap
 
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/sitemap.png)
+
+>>>Labelling
+
+https://github.com/daviyisu/DIU21/blob/master/P2/Labelling.pdf
 
 >>> Identificar términos para diálogo con usuario  
 
