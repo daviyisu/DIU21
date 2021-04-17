@@ -5,6 +5,8 @@
 
 
 ### PROPUESTA DE VALOR
+Nuestra propuesta es la de una aplicación para organizar viajes llamada Acogavi, explicada aquí:
+
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/canvas.png)
 
 
