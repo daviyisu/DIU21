@@ -66,9 +66,7 @@ Nuestra valoración dada en el análisis competitivo y esta son tan distintas po
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/malla_receptora_info.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
