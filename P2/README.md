@@ -1,9 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+
 
 
 ### PROPUESTA DE VALOR
