@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-HACER LOS ICONOS, TENÉIS QUE HACER LOS ICONOS
+
 
 ## Landing Page
 
