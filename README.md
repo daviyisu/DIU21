@@ -119,26 +119,22 @@ https://github.com/daviyisu/DIU21/blob/master/P2/bocetos.pdf
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 Puede ser accedido aquí: https://app.milanote.com/1LFpy710rQyIbm/new-board?p=dZf7EKK1MmS
+
 Para crear el logotipo hemos usado: https://www.tailorbrands.com/es/logo-maker
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/moonboard.PNG)
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+Landing page creado con Draw.io
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/landing_page.png)
 
-
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Hemos usado Google Material para Android y los patrones de diseño los hemos sacado de: http://ui-patterns.com
+https://github.com/daviyisu/DIU21/blob/master/P3/Guidelines%20y%20Patrones%20de%20diseño.pdf
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
