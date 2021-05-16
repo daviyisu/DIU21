@@ -12,7 +12,8 @@ Descripción:
 Aplicación para organizar viajes y para hospedar gente que cuenta con un sistema de puntos con el que abaratar gastos. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/acogavi.png)
 
 Miembros
  * :bust_in_silhouette:   David Jesús Ruiz de Valdivia Torres     :octocat:     https://github.com/daviyisu
