@@ -141,8 +141,8 @@ https://github.com/daviyisu/DIU21/blob/master/P3/Guidelines%20y%20Patrones%20de%
 
 Hecho en Adobe XD. Aquí ponemos solo dos capturas para no saturar el readme pero el resto puede ser encontrada en: https://github.com/daviyisu/DIU21/tree/master/P3/Pantallas%20Hi-Fi
 
-https://github.com/daviyisu/DIU21/blob/master/P3/Pantallas%20Hi-Fi/Google%20Pixel%205%20–%201.png
-https://github.com/daviyisu/DIU21/blob/master/P3/Pantallas%20Hi-Fi/Google%20Pixel%205%20–%202.png
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/Pantallas%20Hi-Fi/Google%20Pixel%205%20–%201.png)
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/Pantallas%20Hi-Fi/Google%20Pixel%205%20–%202.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
