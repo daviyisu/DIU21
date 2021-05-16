@@ -118,6 +118,9 @@ https://github.com/daviyisu/DIU21/blob/master/P2/bocetos.pdf
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+Puede ser accedido aquí: https://app.milanote.com/1LFpy710rQyIbm/new-board?p=dZf7EKK1MmS
+Para crear el logotipo hemos usado: https://www.tailorbrands.com/es/logo-maker
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P3/moonboard.PNG)
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
