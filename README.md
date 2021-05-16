@@ -148,10 +148,8 @@ Hecho en Adobe XD. Aquí ponemos solo dos capturas para no saturar el readme per
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+Nuestro Case Study es una sencilla presentación que explica el proceso de desarrollo de la interfaz de Acogavi, así como las herramientas usadas y lo que hemos aprendido.
+Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctica%203%20-%20DIU%20Case%20Study.pdf
 
 ## Paso 4. Evaluación 
 
