@@ -37,5 +37,6 @@ Hemos utilizado la herramienta Adobe XD para crear el Mockup:
 ## Documentación: Publicación del Case Study
 
 
-El enlace a nuestro case study se encuentra aquí: https://github.com/daviyisu/DIU21/blob/master/P3/Práctica%203%20-%20DIU%20Case%20Study.pdf
+El enlace a nuestro case study se encuentra aquí: 
+https://github.com/daviyisu/DIU21/blob/master/P3/Práctica%203%20-%20DIU%20Case%20Study.pdf
  
