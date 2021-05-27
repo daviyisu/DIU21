@@ -60,19 +60,16 @@ Nuestra valoración dada en el análisis competitivo y esta son tan distintas po
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Malla receptora
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P2/malla_receptora_info.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>> (150-200 caracteres)
+Propuesta de valor
 
 Los gastos de los viajes pueden ser muy caros. Nuestra propuesta de app permite abaratar gastos con un sistema de puntos, hospedarte en casas de usuarios y ofrecer la tuya propia.
 
