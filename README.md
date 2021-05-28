@@ -183,6 +183,19 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
+
+| Número pregunta | Pregunta     | Respuesta   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+|  1  | Creo que me gustará visitar con frecuencia este App   | Estudiante  | Avanzado       | Introvertido | Windows y Android       | A 
+|  2  | H / 15-30   | En paro  | Avanzado       | Emocional       | Windows y Android        | A 
+|  3  | M / 15-30   | Estudiante     | Avanzado        | Alegre    | Windows y Android      | A 
+|  4  | H / 45-60   | Técnico Administración Especial  | Intermedio       | Racional     | Windows y Android        | A
+|  5  | H / 15-30   | Vigilante de Seguridad  | Avanzado       | Emocional     | Android        | B
+|  6  | M / 15-30   | Estudiante  | Avanzado       | Introvertido     | Android        | B
+|  7  | M / 15-30   | Estudiante  | Avanzado       | Emocional     | Windows, Android e IOS        | B
+|  8  | M / 15-30   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     | MAC y Android        | B
+
+
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
