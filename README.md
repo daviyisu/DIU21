@@ -166,7 +166,7 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Anon 1  | H / 15-30   | Estudiante  | Avanzado       | Introvertido | Windows y Android       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
