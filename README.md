@@ -184,16 +184,18 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 
-| Número pregunta | Pregunta     | Respuesta   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-|  1  | Creo que me gustará visitar con frecuencia este App   | Estudiante  | Avanzado       | Introvertido | Windows y Android       | A 
-|  2  | H / 15-30   | En paro  | Avanzado       | Emocional       | Windows y Android        | A 
-|  3  | M / 15-30   | Estudiante     | Avanzado        | Alegre    | Windows y Android      | A 
-|  4  | H / 45-60   | Técnico Administración Especial  | Intermedio       | Racional     | Windows y Android        | A
-|  5  | H / 15-30   | Vigilante de Seguridad  | Avanzado       | Emocional     | Android        | B
-|  6  | M / 15-30   | Estudiante  | Avanzado       | Introvertido     | Android        | B
-|  7  | M / 15-30   | Estudiante  | Avanzado       | Emocional     | Windows, Android e IOS        | B
-|  8  | M / 15-30   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     | MAC y Android        | B
+| Número pregunta | Pregunta     | Respuesta   |  Usuario    | Puntuación 
+| ------------- | -------- | ----------- | ----------- | -----------  
+|  1  | Creo que me gustará visitar con frecuencia este App   | Estudiante  | Avanzado       | Introvertido 
+|  2  | Encontré el website innecesariamente complejo   | En paro  | Avanzado       | Emocional       
+|  3  | Pienso que es fácil utilizar esta App   | Estudiante     | Avanzado        | Alegre    
+|  4  | Creo que necesitaría del apoyo de un experto para recorrer el App   | Técnico Administración Especial  | Intermedio       | Racional     
+|  5  | Encontré las funciones de la App bastante bien integradas   | Vigilante de Seguridad  | Avanzado       | Emocional     
+|  6  | Pensé que había demasiada inconsistencia en el App   | Estudiante  | Avanzado       | Introvertido     
+|  7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el App   | Estudiante  | Avanzado       | Emocional     
+|  8  | Encontré el App muy grande al recorrerlo   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     
+|  9  | Me sentí muy confiado en el manejo del App   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     
+|  10  | Necesito aprender muchas cosas antes de manejarme en el App   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     
 
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
