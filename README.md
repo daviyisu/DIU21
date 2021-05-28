@@ -167,9 +167,13 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Anon 1  | H / 15-30   | Estudiante  | Avanzado       | Introvertido | Windows y Android       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Anon 2  | H / 15-30   | En paro  | Avanzado       | Emocional       | Windows y Android        | A 
+| Anon 3  | M / 15-30   | Estudiante     | Avanzado        | Alegre    | Windows y Android      | A 
+| Anon 4  | H / 45-60   | Técnico Administración Especial  | Intermedio       | Racional     | Windows y Android        | A
+| Anon 5  | H / 15-30   | Vigilante de Seguridad  | Avanzado       | Emocional     | Android        | B
+| Anon 6  | M / 15-30   | Estudiante  | Avanzado       | Introvertido     | Android        | B
+| Anon 7  | M / 15-30   | Estudiante  | Avanzado       | Emocional     | Windows, Android e IOS        | B
+| Anon 8  | M / 15-30   | Estudiante de Ingeniería Informática  | Avanzado       | Introvertido     | MAC y Android        | B
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
