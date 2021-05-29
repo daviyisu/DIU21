@@ -182,10 +182,6 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 
 En la tabla que vemos abajo tenemos los resultados del cuestionario SUS de 8 personas. 4 para el prototipo A y 4 para el B.
 
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
-
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/resultados_sus.PNG)   
 
 
