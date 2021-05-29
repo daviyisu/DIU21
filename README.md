@@ -192,7 +192,7 @@ Como vemos en general los resultados han sido bastante positivos pero se puede p
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/DIU_report-template-usability-testOK.pdf)
+El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/P4_UsabReport_eatgr_doneby_DIU1_tive2.pdf)
 
 
 
