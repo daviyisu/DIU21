@@ -41,7 +41,13 @@ Y aquí tenemos el resultado de los cuestionarios, los 4 primeros corresponden a
 
 El prototipo B ha obtenido ligeramente mejores resultados.
 
-Las notas
+Las notas que se han dado han sido de acuerdo a la escala de la siguiente imagen:
+
+![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/escala.jpg)
+
+## Report de usabilidad
+El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/DIU_report-template-usability-testOK.pdf)
 
 
 ## Conclusiones
+Esta última práctica nos ha parecido bastante curiosa porque por fin exponíamos nuestro trabajo a gente real. Ha estado bien ver como opiniones reales críticaban nuestro trabajo y aunque el prototipo B haya salido "ganador" del A/B Testing, apreciamos la experiencia igual.
