@@ -155,13 +155,14 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El prototipo asignado es eatgr, una aplicación web basada en el turismo culinaro en Granada, donde los usuarios podrán tanto acceder a la información sobre distintos bares granadinos, como planear una ruta o valorar dichos bares.
+El enlace a su github puede ser encontrado [aquí](https://github.com/Oscarntnz/DIU21)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Las 8 personas que respondieron las encuestas distribuidas por las redes sociales.
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
