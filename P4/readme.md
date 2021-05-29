@@ -39,7 +39,7 @@ Y aquí tenemos el resultado de los cuestionarios, los 4 primeros corresponden a
 
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/resultados_sus.PNG)   
 
-El prototipo B ha obtenido ligeramente mejores resultados.
+El prototipo B ha obtenido ligeramente mejores resultados pero aún así ambas aplicaciones han obtenido una gran puntuación y entre los usuarios había algunas personas con una edad más avanzada y/o con menos experiencia en TIC así que lo consideramos un éxito.
 
 Las notas que se han dado han sido de acuerdo a la escala de la siguiente imagen:
 
