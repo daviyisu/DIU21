@@ -185,7 +185,7 @@ En la tabla que vemos abajo tenemos los resultados del cuestionario SUS de 8 per
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/resultados_sus.PNG)   
 
 
-Como vemos en general los resultados han sido bastante positivos pero se puede percibir que el prototipo ha conseguido mejores resultados.
+Como vemos en general los resultados han sido bastante positivos pero se puede percibir que el prototipo B ha conseguido mejores resultados.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
