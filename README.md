@@ -179,7 +179,9 @@ Se puede encontrar en: https://github.com/daviyisu/DIU21/blob/master/P3/Práctic
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+
+En la tabla que vemos abajo tenemos los resultados del cuestionario SUS de 8 personas. 4 para el prototipo A y 4 para el B.
+
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
@@ -187,13 +189,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/resultados_sus.PNG)   
 
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Como vemos en general los resultados han sido bastante positivos pero se puede percibir que el prototipo ha conseguido mejores resultados.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/DIU_report-template-usability-testOK.pdf)
 
 
 
