@@ -46,7 +46,7 @@ Las notas que se han dado han sido de acuerdo a la escala de la siguiente imagen
 ![alt text](https://github.com/daviyisu/DIU21/blob/master/P4/escala.jpg)
 
 ## Report de usabilidad
-El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/DIU_report-template-usability-testOK.pdf)
+El report de usabilidad del prototipo B puede ser encontrado [aquí](https://github.com/daviyisu/DIU21/blob/master/P4/P4_UsabReport_eatgr_doneby_DIU1_tive2.pdf)
 
 
 ## Conclusiones
